@@ -24,7 +24,7 @@ Rola w projekcie: Koordynator projektu / Asystent Kierownika Projektu
 - Dostosowywanie planu projektu do zmian zakresu
 
 ## Wykorzystywane narzędzia
-- Jira / Trello – zarządzanie zadaniami i backlogiem
+- Jira – zarządzanie zadaniami i backlogiem
 - Google Docs – dokumentacja projektowa
 - GitHub – repozytorium dokumentacji projektu
 
